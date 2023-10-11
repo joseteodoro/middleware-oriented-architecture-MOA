@@ -140,12 +140,12 @@ Let's talk about it!
 11. [Directory structure](./directory-structure.md)
 - suggested directory structure for the projects.
 
-11. [Advanced Topics](./advanced.md)
+12. [Advanced Topics](./advanced.md)
 - MOA's relationship with Chain of Responsibility and Functional Programming;
 - State lifecycle tools in MOA;
 - Enhancing MOA with Onion architecture concepts.
 
-12. [Sample Projects and Code Snippets](./samples.md)
+13. [Sample Projects and Code Snippets](./samples.md)
 - Basic authenticated contact list API;
 - Enhancements for transactional consistency;
 - Code snippets for common patterns.
